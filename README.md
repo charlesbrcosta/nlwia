@@ -30,7 +30,21 @@ Agora vamos configurar o vite + vanilla. O comando abaixo vai criar uma pasta pa
 npm create vite@latest
 ```
 
-Após a execução do comando, informa o nome do projeto. Em seguida, entre na pasta do projeto, caso esteja utilizando o cmd ou o vscode digite o comando cd seguido do nome da pasta do projeto.
+Após a execução do comando, informa o nome do projeto. Em seguida Escolha o Framework e a linguagem de programação como mostra abaixo:
+
+Selecione o framework:
+
+- Vanilla
+
+Selecione a linguagem de programação:
+
+- JavaScript
+
+Para acessar a pasta do projeto que foi criada utilize o comando cd e o nome da pasta do projeto, exemplo:
+
+```
+cd nlwia
+```
 
 Agora vamos instalar os packages utilizando o comando no cmd ou terminal vscode:
 
