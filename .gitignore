@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Temporary Files
-tmp/*
 *.mp4
