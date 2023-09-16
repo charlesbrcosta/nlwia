@@ -2,19 +2,20 @@
 
 ## Sistema para criar resumos dos shorts de vídeos do youtube utilizando IA (Inteligência Artificial).
 
-![Badge Em desenvovimento](https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-orange)
+![Badge Em desenvovimento](https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-green)
 
 > Tecnologias utilizadas
 
-![Badge Licença node.js](https://img.shields.io/badge/license-NODE.JS-brightgreen)
-![Badge Licença CSS](https://img.shields.io/badge/license-CSS-blue)
-![Badge Licença JavaScript](https://shields.io/badge/license-JavaScript-yellow)
-![Badge Licença HTML5](https://img.shields.io/badge/license-HTML5-orange)
+![Badge Lincença GNU](https://img.shields.io/badge/License-GNU-orange)
+![Badge Licença node.js](https://img.shields.io/badge/Interpreter-NODE.JS-brightgreen)
+![Badge Licença CSS](https://img.shields.io/badge/Style-CSS-blue)
+![Badge Licença JavaScript](https://shields.io/badge/Front/BackEnd-JavaScript-yellow)
+![Badge Licença HTML5](https://img.shields.io/badge/Marking-HTML5-orange)
 ![Badge IDE VSCode](https://img.shields.io/badge/IDE-VSCode-blue)
 
 ## :hammer: Para a execução do projeto é preciso instalar o node.js e o vite.
 
-> Instalação do node (Windows 32 ou 64 bits):
+## Instalação do node (Windows 32 ou 64 bits):
 
 Baixe o LTS clicando aqui: [node.js](https://nodejs.org/pt-br/download)
 
