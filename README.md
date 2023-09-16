@@ -1,21 +1,30 @@
-# nlw-ia-foundations
+# NLW-IA-FOUNDATION / ROCKEATSEAT
 
-## Sistema para criar resumos dos shorts de vídeos do youtube utilizando IA (Inteligência Artificial).
+<h2>Sistema para criar resumos dos shorts de vídeos do youtube utilizando IA (Inteligência Artificial).</h2>
 
-![Badge Em desenvovimento](https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-green)
+## Tecnologias utilizadas
 
-> Tecnologias utilizadas
-
-![Badge Lincença GNU](https://img.shields.io/badge/License-GNU-orange)
-![Badge Licença node.js](https://img.shields.io/badge/Interpreter-NODE.JS-brightgreen)
-![Badge Licença CSS](https://img.shields.io/badge/Style-CSS-blue)
-![Badge Licença JavaScript](https://shields.io/badge/Front/BackEnd-JavaScript-yellow)
-![Badge Licença HTML5](https://img.shields.io/badge/Marking-HTML5-orange)
+![Badge Interpreter node.js](https://img.shields.io/badge/Interpreter-NODE.JS-brightgreen)
+![Badge Server Vite](https://img.shields.io/badge/Server-Vite-purple)
+![Badge Style CSS](https://img.shields.io/badge/Style-CSS-blue)
+![Badge Front/BackEnd JavaScript](https://shields.io/badge/Front/BackEnd-JavaScript-yellow)
+![Badge Marking HTML5](https://img.shields.io/badge/Marking-HTML5-orange)
 ![Badge IDE VSCode](https://img.shields.io/badge/IDE-VSCode-blue)
 
-## :hammer: Para a execução do projeto é preciso instalar o node.js e o vite.
+## Inteligência Artificial (IA) Utilizadas
 
-## Instalação do node (Windows 32 ou 64 bits):
+- `Whisper` : Modelo da OpenAI de conhecimento automático de fala (ASR - Automatic speech recognition)
+- `Bart` : Modelo para resumo de texto
+
+## Versões de bibliotecas estaticas
+
+- `ytdl-core` : "4.10.0" (responsável pelo download dos vídeos)
+
+<h4>Esta versão 4.10.0 do ytdl-core não apresentou problema no download dos vídeos</h4>
+
+## :hammer: Instalação do node.js e o vite.
+
+<h3>Instalação do node para Windows 32 ou 64 bits:</h3>
 
 Baixe o LTS clicando aqui: [node.js](https://nodejs.org/pt-br/download)
 
@@ -53,7 +62,13 @@ Agora vamos instalar os packages utilizando o comando no cmd ou terminal vscode:
 npm install ou npm i
 ```
 
-Concluindo as instalação vamos executar o projeto. Enter na pasta do projeto e utilize o comando abaixo:
+Concluindo as instalação vamos executar o front-end. O nome padrão do script para executar o front-end foi alterado para web. Entre na pasta do projeto e utilize o comando abaixo:
+
+```
+npm run web
+```
+
+Concluindo as instalação vamos executar o front-end. O nome padrão do script para executar o front-end foi alterado para web. Entre na pasta do projeto e utilize o comando abaixo:
 
 ```
 npm run web
