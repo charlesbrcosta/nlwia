@@ -22,7 +22,7 @@
 
 <h4>Esta versão 4.10.0 do ytdl-core não apresentou problema no download dos vídeos</h4>
 
-## :hammer: Instalação do node.js e o vite.
+## :hammer: Instalação do node.js
 
 <h3>Instalação do node para Windows 32 ou 64 bits:</h3>
 
@@ -34,42 +34,20 @@ Para verificar se o node foi instalado com sucesso abra o cmd (prompt commando) 
 node -v
 ```
 
-Agora vamos configurar o vite + vanilla. O comando abaixo vai criar uma pasta para o projeto.
-
-```
-npm create vite@latest
-```
-
-Após a execução do comando, informa o nome do projeto. Em seguida Escolha o Framework e a linguagem de programação como mostra abaixo:
-
-Selecione o framework:
-
-- Vanilla
-
-Selecione a linguagem de programação:
-
-- JavaScript
-
-Para acessar a pasta do projeto que foi criada utilize o comando cd e o nome da pasta do projeto, exemplo:
-
-```
-cd nlwia
-```
-
-Agora vamos instalar os packages utilizando o comando no cmd ou terminal vscode:
+## Instalação dos packages utilize o comando no cmd ou terminal vscode:
 
 ```
 npm install ou npm i
 ```
 
-Concluindo as instalação vamos executar o front-end. O nome padrão do script para executar o front-end foi alterado para web. Entre na pasta do projeto e utilize o comando abaixo:
+Concluindo as instalação dos packeges executar o Front-End. O nome padrão do script para executar o front-end foi alterado para web. Entre na pasta do projeto e utilize o comando abaixo:
 
 ```
 npm run web
 ```
 
-Concluindo as instalação vamos executar o front-end. O nome padrão do script para executar o front-end foi alterado para web. Entre na pasta do projeto e utilize o comando abaixo:
+Para executar o Back-End utilize o comando abaixo:
 
 ```
-npm run web
+npm run server
 ```
