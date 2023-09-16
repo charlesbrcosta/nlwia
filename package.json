@@ -7,9 +7,6 @@
     "web": "vite",
     "server": "env YTDL_NO_UPDATE=1 node --watch --no-warnings server/index.js"
   },
-  "devDependencies": {
-    "vite": "^4.4.5"
-  },
   "dependencies": {
     "@xenova/transformers": "^2.6.0",
     "axios": "^1.5.0",
