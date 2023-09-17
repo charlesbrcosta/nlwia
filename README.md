@@ -34,13 +34,15 @@ Para verificar se o node foi instalado com sucesso abra o cmd (prompt commando) 
 node -v
 ```
 
-## Instalação dos packages utilize o comando no cmd ou terminal vscode:
+## Instalação dos packages
+
+Utilize o comando no cmd ou terminal vscode para instalar os packages:
 
 ```
 npm install ou npm i
 ```
 
-Concluindo as instalação dos packeges executar o Front-End. O nome padrão do script para executar o front-end foi alterado para web. Entre na pasta do projeto e utilize o comando abaixo:
+Concluindo a instalação dos packeges. O nome padrão do script para executar o front-end foi alterado para web.Utilize o comando para executar o front-end:
 
 ```
 npm run web
