@@ -42,7 +42,7 @@ Utilize o comando no cmd ou terminal vscode para instalar os packages:
 npm install ou npm i
 ```
 
-Concluindo a instalação dos packeges. O nome padrão do script para executar o front-end foi alterado para web.Utilize o comando para executar o front-end:
+Concluindo a instalação dos packeges. O nome padrão do script para executar o front-end foi alterado para web. Utilize o comando para executar o front-end:
 
 ```
 npm run web
